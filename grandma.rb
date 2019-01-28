@@ -21,3 +21,4 @@ def speak_to_grandma(input)
     return "HUH?! SPEAK UP, SONNY!"
 end
   
+speak_to_grandma("Hello")
